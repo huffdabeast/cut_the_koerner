@@ -189,7 +189,7 @@ function HeroGeometric({
                         animate="visible"
                     >
                         <Link
-                            href="/tech-directory"
+                            href="/blueprint-directory"
                             className="inline-flex items-center px-8 py-4 text-lg font-semibold text-white bg-gradient-to-r from-indigo-600 to-rose-600 hover:from-indigo-700 hover:to-rose-700 rounded-full shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-out"
                         >
                             Get Building
