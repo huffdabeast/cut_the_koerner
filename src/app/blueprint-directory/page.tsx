@@ -7,6 +7,6 @@ const SideMenuBar = dynamic(() => import('../../components/ui/claude-side-menu')
   ssr: false,
 });
 
-export default function TechDirectoryPage() {
+export default function BlueprintDirectoryPage() {
   return <SideMenuBar />;
 }
