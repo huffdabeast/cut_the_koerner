@@ -403,7 +403,7 @@ export default function SideMenuBar() {
         <div className="max-w-4xl mx-auto pt-12">
           <div className="flex items-center justify-between mb-6">
             <h1 className="text-2xl font-bold text-black dark:text-white font-work-sans-bold">
-              Tech Companies Directory
+              Blueprint Directory
             </h1>
             <div className="flex items-center gap-2">
               <button
