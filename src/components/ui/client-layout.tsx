@@ -10,7 +10,7 @@ export default function ClientLayout() {
   return (
     <div className="fixed top-4 left-16 right-0 z-40">
       <Dock>
-        <DockItem onClick={() => router.push("/tech-directory")}>
+        <DockItem onClick={() => router.push("/blueprint-directory")}>
           <DockLabel>Blueprints</DockLabel>
           <DockIcon>
             <LayoutDashboard className="text-black dark:text-white" />
